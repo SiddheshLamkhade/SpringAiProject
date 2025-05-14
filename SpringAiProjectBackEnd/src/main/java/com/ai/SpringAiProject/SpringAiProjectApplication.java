@@ -8,6 +8,7 @@ public class SpringAiProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAiProjectApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
